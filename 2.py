@@ -8,3 +8,4 @@ while(x!=0):
   x=x/10
 print "sum=",sum
 print "product=",product
+#edit
